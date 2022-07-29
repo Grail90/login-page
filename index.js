@@ -18,7 +18,7 @@ function change(){
 
 }
 
-setTimeout(change,5000); 
+setTimeout(change,1000); 
 
 
 
