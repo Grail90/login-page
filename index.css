@@ -41,11 +41,11 @@ grid-column: 1/7;border-style: none;position: relative;left: 28px;width: 85vw;he
 
 
  
-color: white;background-color: red;grid-row: 6;border-style: none;opacity: 100%;border-radius: 43px;}
+color: white;background-color: #2e1ca5 ;grid-row: 6;border-style: none;opacity: 100%;border-radius: 43px;}
 #button2{
 
  
-background-color: #0808eb;color: white;grid-row: 7;top: 20px;letter-spacing: 1px;}
+background-color: #1f1f21;color: white;grid-row: 7;top: 20px;letter-spacing: 1px;}
 
 #password{
  
